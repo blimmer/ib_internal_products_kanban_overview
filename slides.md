@@ -41,11 +41,11 @@ if work is visible, you can see blockers, bottlenecks and queues immediately.
 
 ---
 
-![](/images/kanban_board.png)
+![](images/kanban_board.png)
 
 ---
 
-![](/images/kanban_board_complex.png)
+![](images/kanban_board_complex.png)
 
 ---
 
@@ -68,7 +68,7 @@ assign limits to each column in your visualized workflow
 
 ---
 
-![](/images/kanban_board_complex_wip_highlight.png)
+![](images/kanban_board_complex_wip_highlight.png)
 
 ---
 
@@ -181,7 +181,7 @@ well, we're not doing kanban really. :laughing:
 
 ## Tracker Kanban Board
 
-![](/images/kanban_board_tracker.png)
+![](images/kanban_board_tracker.png)
 
 ***
 
